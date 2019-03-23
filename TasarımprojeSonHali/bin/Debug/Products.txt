@@ -1,0 +1,10 @@
+Book = ID : 101 ,Name : Sefiller ,Price : 10 ,ISBN : 21556 ,Author : Victor Hugo ,Publisher : Anonim
+Book = ID : 102 ,Name : Beyaz Sir ,Price : 10 ,ISBN : 21556 ,Author : Feridun Yilmaz ,Publisher : Anonim
+Book = ID : 103 ,Name : Agafya ,Price : 10 ,ISBN : 21556 ,Author : Erturk Aksun ,Publisher : Anonim
+Magazine = ID : 201 ,Name : Barcelona ,Price : 15 ,Issue : Lionel Messi ,Type : Sport
+Magazine = ID : 202 ,Name : Galatasaray ,Price : 15 ,Issue : Wesley Sneijder ,Type : Sport
+Magazine = ID : 203 ,Name : Arsenal ,Price : 15 ,Issue : Walcott ,Type : Sport
+MusicCD = ID : 301 ,Name : Unutamadim ,Price : 20 ,Singer : Baris Manco ,Type : Romance
+MusicCD = ID : 302 ,Name : Yalniz Kurt ,Price : 20 ,Singer : Ahmet Safak ,Type : Romance
+MusicCD = ID : 303 ,Name : Paylasamam ,Price : 20 ,Singer : Mustafa Yildizdogan ,Type : Romance
+MusicCD = ID : 304 ,Name : Turkumuz Bizim,Price : 20 ,Singer : Mustafa Yildizdogan ,Type : Romance
